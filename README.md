@@ -49,7 +49,7 @@ npm run dist -- --mac --win
 
 ### ✅ macOS (ARM64)
 
-> `.zip`과 `.dmg` 중 하나만 업로드해도 되지만, **dmg 우선** 권장
+> `.zip`과 `.dmg` 중 하나만 업로드해도 되지만, **dmg 우선** 권장 **(만일의 상황을 위해 zip 파일도 같이 업로드 필요)**
 
 - `release/4seasonAI-0.0.0-arm64-mac.zip`  
 - `release/4seasonAI-0.0.0-arm64-mac.zip.blockmap`  
